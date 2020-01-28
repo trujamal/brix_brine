@@ -1,9 +1,14 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "brix_brine",
+  "description": "Brix Brine Website",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Jamal Rasool",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.26",
+    "@fortawesome/free-solid-svg-icons": "^5.12.0",
+    "@fortawesome/react-fontawesome": "^0.1.8",
+    "aos": "^2.3.4",
+    "bootstrap": "^4.3.1",
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.0.23",
@@ -29,6 +34,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
+    "styled-components": "^4.3.2",
     "uuid": "^3.2.1"
   },
   "keywords": [
